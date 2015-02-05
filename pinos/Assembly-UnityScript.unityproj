@@ -46,51 +46,16 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Interfaz\Intro logo\Scripts\Play.js" />
-     <None Include="Assets\Niveles\Nivel 2\Texturas\1.txt" />
-     <None Include="Assets\Niveles\Nivel 1\Scripts\1.txt" />
-     <None Include="Assets\Interfaz\Selec Personaje\Scripts\1.txt" />
-     <None Include="Assets\Niveles\Nivel 3\1.txt" />
-     <None Include="Assets\Niveles\Nivel 3\Prefabs\1.txt" />
-     <None Include="Assets\Interfaz\Menu Principal\Fondo\1.txt" />
-     <None Include="Assets\Interfaz\Creditos\Scripts\1.txt" />
-     <None Include="Assets\Niveles\Nivel 1\Texturas\1.txt" />
-     <None Include="Assets\Interfaz\Botones\1.txt" />
-     <None Include="Assets\Niveles\Nivel 2\Prefabs\1.txt" />
-     <None Include="Assets\Niveles\Nivel 2\Scripts\1.txt" />
-     <None Include="Assets\Interfaz\Selec Nivel\Scripts\1.txt" />
-     <None Include="Assets\Niveles\Globales\Global Modelos\1.txt" />
-     <None Include="Assets\Interfaz\Creditos\1.txt" />
-     <None Include="Assets\Niveles\Globales\Global Texturas\1.txt" />
-     <None Include="Assets\Interfaz\Intro logo\1.txt" />
-     <None Include="Assets\Niveles\Nivel 1\Materiales\1.txt" />
-     <None Include="Assets\Interfaz\Botones\Scripts\1.txt" />
-     <None Include="Assets\Interfaz\Creditos\Fondo\1.txt" />
-     <None Include="Assets\Niveles\Nivel 2\Modelos\1.txt" />
-     <None Include="Assets\Niveles\Nivel 2\1.txt" />
-     <None Include="Assets\Interfaz\Selec Nivel\Fondos\1.txt" />
-     <None Include="Assets\Interfaz\Selec Personaje\1.txt" />
-     <None Include="Assets\Niveles\Botones\Scripts\1.txt" />
-     <None Include="Assets\Interfaz\Record\Scripts\1.txt" />
-     <None Include="Assets\Interfaz\Selec Nivel\1.txt" />
-     <None Include="Assets\Interfaz\Menu Principal\Scripts\1.txt" />
-     <None Include="Assets\Interfaz\1.txt" />
-     <None Include="Assets\Niveles\Nivel 3\Materiales\1.txt" />
-     <None Include="Assets\Niveles\Nivel 3\Texturas\1.txt" />
-     <None Include="Assets\Interfaz\Selec Personaje\Fondo\1.txt" />
-     <None Include="Assets\Niveles\Nivel 1\Modelos\1.txt" />
-     <None Include="Assets\Niveles\Nivel 3\Scripts\1.txt" />
-     <None Include="Assets\Niveles\Globales\Global Prefabs\1.txt" />
-     <None Include="Assets\Niveles\Nivel 2\Materiales\1.txt" />
-     <None Include="Assets\Interfaz\Menu Principal\1.txt" />
-     <None Include="Assets\Interfaz\Record\Fondo\1.txt" />
-     <None Include="Assets\Niveles\Nivel 1\Prefabs\1.txt" />
-     <None Include="Assets\Interfaz\Como Jugar\1.txt" />
-     <None Include="Assets\Niveles\Globales\Gobal Materales\1.txt" />
-     <None Include="Assets\Niveles\Nivel 3\Modelos\1.txt" />
-     <None Include="Assets\Niveles\Botones\Imagen\1.txt" />
-     <None Include="Assets\Interfaz\Record\1.txt" />
-     <None Include="Assets\Niveles\Nivel 1\1.txt" />
+     <Compile Include="Assets\Escenas\Global\JS\Control_Logos.js" />
+     <Compile Include="Assets\Escenas\Global\JS\Redimensionar.js" />
+     <Compile Include="Assets\Escenas\LogoEam\JS\Generar_XML.js" />
+     <None Include="Assets\Globales\Prefab\Read.txt" />
+     <None Include="Assets\Escenas\LogoEam\Interface\Materiales\Read.txt" />
+     <None Include="Assets\Escenas\LogoEam\Globales\JS\Read.txt" />
+     <None Include="Assets\Escenas\LogoEam\Interface\IMG\Read.txt" />
+     <None Include="Assets\Globales\JS\Read.txt" />
+     <None Include="Assets\Escenas\LogoEam\Interface\JS\Read.txt" />
+     <None Include="Assets\Globales\IMG\Read.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

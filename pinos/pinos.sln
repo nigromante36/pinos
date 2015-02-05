@@ -1,19 +1,23 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{49EA6D8A-16D2-2130-D16E-B631E498E651}") = "pinos", "Assembly-UnityScript.unityproj", "{2E4D8156-8E17-E391-F3CC-966D4B0872FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{2E4D8156-8E17-E391-F3CC-966D4B0872FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4D8156-8E17-E391-F3CC-966D4B0872FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4D8156-8E17-E391-F3CC-966D4B0872FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4D8156-8E17-E391-F3CC-966D4B0872FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-											GlobalSection(MonoDevelopProperties) = preSolution
+																											GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Interfaz\Intro logo\Scripts\Play.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Escenas\LogoEam\JS\Generar_XML.js">
     <Files>
-      <File FileName="Assets\Interfaz\Intro logo\Scripts\Play.js" Line="2" Column="12" />
+      <File FileName="Assets\Escenas\Global\JS\Redimensionar.js" Line="21" Column="41" />
+      <File FileName="Assets\Escenas\Global\JS\Control_Logos.js" Line="11" Column="1" />
+      <File FileName="Assets\Escenas\LogoEam\JS\Generar_XML.js" Line="20" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
