@@ -1,4 +1,6 @@
 ﻿#pragma strict
+import System.Xml;
+import System.IO;
 
 function Start () {
 
