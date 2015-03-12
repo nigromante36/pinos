@@ -3,13 +3,14 @@ import System.Xml;
 import System.IO;
 
 function Start () {
-
+	WriteToXmlFile ();
 }
 
 function WriteToXmlFile ()
 {	
 	// Comprobar si asignamos xml del Inspector
 	var filepath : String= Application.persistentDataPath + "/xmlpuntos.xml" ;
+	Debug.Log(filepath);
 	
 	// Crear un nuevo XmlDocument
 	var  xmlDoc:XmlDocument  = new XmlDocument ();  

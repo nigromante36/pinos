@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: b3ecb2819ed56a140a4bed3493cb67ee
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bola
+    100002: //RootNode
+    100004: pelo
+    100006: Pinza1
+    100008: Pinza2
+    100010: Pinza3
+    100012: Pinza4
+    100014: Pinza5
+    100016: Pinza6
+    100018: Pinza7
+    100020: Pinza8
+    100022: Pinza9
+    100024: Tornillo1
+    100026: Tornillo2
+    400000: Bola
+    400002: //RootNode
+    400004: pelo
+    400006: Pinza1
+    400008: Pinza2
+    400010: Pinza3
+    400012: Pinza4
+    400014: Pinza5
+    400016: Pinza6
+    400018: Pinza7
+    400020: Pinza8
+    400022: Pinza9
+    400024: Tornillo1
+    400026: Tornillo2
+    2300000: Bola
+    2300002: pelo
+    2300004: Pinza1
+    2300006: Pinza2
+    2300008: Pinza3
+    2300010: Pinza4
+    2300012: Pinza5
+    2300014: Pinza6
+    2300016: Pinza7
+    2300018: Pinza8
+    2300020: Pinza9
+    2300022: Tornillo1
+    2300024: Tornillo2
+    3300000: Bola
+    3300002: pelo
+    3300004: Pinza1
+    3300006: Pinza2
+    3300008: Pinza3
+    3300010: Pinza4
+    3300012: Pinza5
+    3300014: Pinza6
+    3300016: Pinza7
+    3300018: Pinza8
+    3300020: Pinza9
+    3300022: Tornillo1
+    3300024: Tornillo2
+    4300000: Pinza3
+    4300002: Pinza4
+    4300004: Pinza5
+    4300006: Bola
+    4300008: Tornillo1
+    4300010: Tornillo2
+    4300012: pelo
+    4300014: Pinza1
+    4300016: Pinza9
+    4300018: Pinza8
+    4300020: Pinza7
+    4300022: Pinza2
+    4300024: Pinza6
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
